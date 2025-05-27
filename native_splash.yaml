@@ -1,0 +1,20 @@
+ flutter_native_splash:
+   android: true
+   ios: true
+   web: false
+
+   color: "#ffffff"
+   color_dark: "#000000"
+
+   image: "assets/logos/leo_black.jpg"
+   background_image: "assets/logos/white.jpg"
+
+   image_dark: "assets/logos/leo_white.jpg"
+   background_image_dark: "assets/logos/black.jpg"
+
+   android_12:
+      image: "assets/logos/leo_black.jpg"
+      background_image: "assets/logos/white.jpg"
+
+      image_dark: "assets/logos/leo_white.jpg"
+      background_image_dark: "assets/logos/black.jpg"

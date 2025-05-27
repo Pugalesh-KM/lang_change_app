@@ -1,0 +1,18 @@
+{
+  "title": "Language App",
+  "home": "Home",
+  "leaders": "Leaders",
+  "settings": "Settings",
+  "footer": "Select a language",
+  "language": "Language",
+  "items": [
+    { "name": "Mahatma Gandhi", "detail": "Leader of Indian independence movement known for non-violence." },
+    { "name": "Jawaharlal Nehru", "detail": "First Prime Minister of India." },
+    { "name": "Subhash Chandra Bose", "detail": "Leader of Indian National Army and independence activist." },
+    { "name": "Sardar Vallabhbhai Patel", "detail": "Iron Man of India, unified the princely states." },
+    { "name": "Dr. B. R. Ambedkar", "detail": "Principal architect of the Indian Constitution." },
+    { "name": "APJ Abdul Kalam", "detail": "Former President and scientist known as the Missile Man of India." },
+    { "name": "Indira Gandhi", "detail": "First and only female Prime Minister of India." },
+    { "name": "Lal Bahadur Shastri", "detail": "Second Prime Minister of India known for 'Jai Jawan Jai Kisan'." }
+  ]
+}
